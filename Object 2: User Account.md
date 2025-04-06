@@ -8,9 +8,4 @@ stateDiagram-v2
 
 
 
-Explanation:
 
-Key States: Registered, Active, Suspended, Deleted
-Requirement Mapping:
-FR-002: User registration and login functionality.
-FR-009: Allow users to delete accounts.
