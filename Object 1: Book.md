@@ -7,3 +7,4 @@ stateDiagram-v2
     Returned --> Available : Library processes return
     CheckedOut --> Lost : Reported as lost
     Reserved --> Available : Reservation canceled
+ 
