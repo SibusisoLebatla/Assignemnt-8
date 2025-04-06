@@ -6,6 +6,6 @@ stateDiagram-v2
     Suspended --> Active : Appeal granted
     Active --> Deleted : User deletes account
 
-
+ 
 
 
