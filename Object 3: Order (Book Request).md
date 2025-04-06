@@ -1,3 +1,4 @@
+```mermaid
 stateDiagram-v2
     [*] --> Initiated
     Initiated --> Processing : Validated by system
