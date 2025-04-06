@@ -4,3 +4,4 @@ stateDiagram-v2
     Initiated --> Verified : Validated
     Verified --> Successful : Paid
     Verified --> Failed : Insufficient funds
+ 
